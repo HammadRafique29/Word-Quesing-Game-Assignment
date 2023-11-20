@@ -3,7 +3,12 @@
 ![image](https://github.com/HammadRafique29/Word-Quesing-Game-Assignment/assets/112252001/6c1d954d-d74d-4af7-b8c2-ed0df1e9b721)
 
 
-## Output
+# Running
+
+Go to Repo folder, open terminal and type
+`` Python words.py``
+
+# Output
 
 ![image](https://github.com/HammadRafique29/Word-Quesing-Game-Assignment/assets/112252001/5ccceea3-3014-4302-888d-37aead7897a2)
 
