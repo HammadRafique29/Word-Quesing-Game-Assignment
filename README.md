@@ -6,7 +6,7 @@
 # Running
 
 Go to Repo folder, open terminal and type
-`` Python words.py``
+- ``python words.py``
 
 # Output
 
